@@ -1,5 +1,5 @@
-Day3: OOP Practice (Classes, Inheritance, Abstraction)
-Author:https://github.com/thedevamina
+//Day3: OOP Practice (Classes, Inheritance, Abstraction)
+//Author:https://github.com/thedevamina
 
 
 class Game {
